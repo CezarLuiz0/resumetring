@@ -1,0 +1,28 @@
+{
+  "name": "resumetring",
+  "version": "1.0.0",
+  "description": "A simples library to resume a string",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CezarLuiz0/resumetring.git"
+  },
+  "keywords": [
+    "string",
+    "resume",
+    "wrap",
+    "javascript"
+  ],
+  "author": "Cezar Luiz <cezarluiz.c@gmail.com> (https://github.com/CezarLuiz0)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/CezarLuiz0/resumetring/issues"
+  },
+  "homepage": "https://github.com/CezarLuiz0/resumetring#readme",
+  "devDependencies": {
+    "jest-cli": "^0.7.1"
+  }
+}
