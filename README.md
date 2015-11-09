@@ -13,6 +13,12 @@ npm install resumetring
 ```
 require('resumetring');
 
+// string str.resume(int max_length, str glue);
+// defaults
+// max_length 10
+// glue '...'
+
+
 var str = "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
 
 str.resume(); // Lorem ipsu...
